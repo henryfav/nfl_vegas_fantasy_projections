@@ -3,7 +3,7 @@
   Vegas Sportsbooks have one of the best track records in predicting sports outcomes. If they weren't good, they would lose and be taken out of business. Although fantasy football is a peer to peer game, vegas provides player total projections for things like touchdowns, rushing yards, receptions and all statistics tracked in fantasy football. What would it look like if Vegas drafted a fantasy football team? What players would they pick? What players would they avoid?
   
 ### Draftkings API
-    
+
     Draftkings is valued at over six billion dollars and has been successful at predicting sports outcomes since 2012. They offer bets through their website. The odds seen by the public are supplied through a public API which allows us to pull their projections directly. With the public API having simple structure, pandas and regex easily clean to a useable database. Simultaneously, applying basic fantasy football scoring functions to each statistic yields what Vegas projects a player to score.
     
 ### R Shiny Application
