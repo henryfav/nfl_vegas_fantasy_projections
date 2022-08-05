@@ -4,7 +4,7 @@
   
 ### Draftkings API
 
-    Draftkings is valued at over six billion dollars and has been successful at predicting sports outcomes since 2012. They offer bets through their website. The odds seen by the public are supplied through a public API which allows us to pull their projections directly. With the public API having simple structure, pandas and regex easily clean to a useable database. Simultaneously, applying basic fantasy football scoring functions to each statistic yields what Vegas projects a player to score.
+  Draftkings is valued at over six billion dollars and has been successful at predicting sports outcomes since 2012. They offer bets through their website. The odds seen by the public are supplied through a public API which allows us to pull their projections directly. With the public API having simple structure, pandas and regex easily clean to a useable database. Simultaneously, applying basic fantasy football scoring functions to each statistic yields what Vegas projects a player to score.
     
     
 
